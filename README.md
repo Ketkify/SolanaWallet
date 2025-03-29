@@ -82,5 +82,4 @@
 <h2>Live Demo</h2>
 <p>You can check out the deployed project here: <a href="https://solana-wallet-alpha-self.vercel.app/">https://solana-wallet-alpha-self.vercel.app/</a></p>
 
-<h2>Video Explanation</h2>
-<p>Watch the project walkthrough on Loom: <a href="https://www.loom.com/share/545826ce6fa744b89317c3da2f6c5a92?sid=8d935c2c-cbbd-41d5-ad26-0eb05130b70b">https://www.loom.com/share/545826ce6fa744b89317c3da2f6c5a92</a></p>
+
